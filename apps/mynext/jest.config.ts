@@ -1,4 +1,5 @@
 export default {
+  // some change
   displayName: 'mynext',
   preset: '../../jest.preset.js',
   transform: {
